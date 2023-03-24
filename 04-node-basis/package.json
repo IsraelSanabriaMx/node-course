@@ -1,0 +1,24 @@
+{
+  "name": "04-node-basis",
+  "version": "0.0.1",
+  "description": "Basis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "multiplica": "node app.js --base=9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsraelSanabriaMx/node-course.git"
+  },
+  "author": "Israel Sanabria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IsraelSanabriaMx/node-course/issues"
+  },
+  "homepage": "https://github.com/IsraelSanabriaMx/node-course#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.1"
+  }
+}
