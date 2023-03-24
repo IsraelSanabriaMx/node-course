@@ -1,1 +1,15 @@
-### Node course from Udemy
+# Node course from Udemy
+
+## Project to run
+
+- Go to: node-course/04-node-basis
+- Run npm install
+
+```
+Options:
+      --help     Show help                                             [boolean]
+      --version  Show version number                                   [boolean]
+  -b, --base     Base to get the tabla                       [number] [required]
+  -l, --listar   Show the result of the tabla         [boolean] [default: false]
+  -h, --hasta    Limit of operations                                    [number]
+```
