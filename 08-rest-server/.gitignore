@@ -1,3 +1,6 @@
 node_modules/
 *.env
 db/*.txt
+uploads/*/*.jpeg
+uploads/*/*.jpg
+uploads/*/*.png
