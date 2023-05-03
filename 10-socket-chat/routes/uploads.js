@@ -23,7 +23,7 @@ router.put('/:collection/:id', [
   check('collection').custom((c) => collectionsAllowed(c, ['users', 'products'])),
   validateUploads,
   validateFields,
-// ], uploadModelImg);
+  // ], uploadModelImg);
 ], uploadModelImgCloudinary);
 
 module.exports = router;
